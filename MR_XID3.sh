@@ -24,89 +24,99 @@ echo                      " [•]thanks to: D35TR0Y SQUAD            []"|lolcat
 echo                      " [•]Note2    : Copyright © 2018 MR_XID  []"|lolcat
 echo                      " [•]===><==<>===><===<>===><===<>===><==[]"|lolcat
                             
-echo    "<•¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤•>"|lolcat
+echo    "<•¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤•>"|lolcat
 echo   -x $green " $-(1. WEB HACK"
-echo    "<•¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤•>"|lolcat
-echo   -x $red " $-(2. BOM SPAM "
-echo    "<•¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤•>"|lolcat     
-echo   -x $cyan " $-(3. HAMMER DDOS "
-echo    "<•¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤•>"|lolcat
-echo   -x $red " $-(4. SQL MAP"
-echo    "<•¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤•>"|lolcat
+echo    "<•¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤•>"|lolcat
+echo   -x $red "   $-(2. BOM SPAM "
+echo    "<•¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤•>"|lolcat     
+echo   -x $cyan "  $-(3. HAMMER DDOS "
+echo    "<•¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤•>"|lolcat
+echo   -x $red "   $-(4. SQL MAP"
+echo    "<•¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤•>"|lolcat
 echo   -x $green " $-(5. SPAM WHATSAPP"
-echo    "<•¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤•>"|lolcat
-echo   -x $red " $-(6. New Tool TUAN B4DUT "
-echo    "<•¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤•>"|lolcat
-echo   -x $blue " $-(7. Tool TUAN B4DUT V3"
-echo    "<•¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤•>"|lolcat
-echo   -x $yellow " $-(8. TOOL Cyb3r gh0st "
-echo    "<•¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤•>"|lolcat
-echo   -x $red " $-(9. TOOL TU4N N1CKN4M3"
-echo    "<•¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤•>"|lolcat
+echo    "<•¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤•>"|lolcat
+echo   -x $red "   $-(6. New Tool TUAN B4DUT "
+echo    "<•¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤•>"|lolcat
+echo   -x $blue "  $-(7. Tool TUAN B4DUT V3"
+echo    "<•¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤•>"|lolcat
+echo   -x $yellow "$-(8. TOOL Cyb3r gh0st "
+echo    "<•¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤•>"|lolcat
+echo   -x $red "   $-(9. TOOL TU4N N1CKN4M3"
+echo    "<•¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤•>"|lolcat
 echo   -x $green " $-(10.MAKE SCRIP DEFACE "
-echo    "<•¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤•>"|lolcat
-echo   -x $red " $-(11. INFO ANDROID"
-echo    "<•¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤•>"|lolcat
-echo   -x $red " $-(12. KALI NETHUNTER"
-echo    "<•¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤•>"|lolcat
-echo   -x $cyan " $-(13. CRACK PW HASH"
-echo    "<•¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤•>"|lolcat
+echo    "<•¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤•>"|lolcat
+echo   -x $red "   $-(11. INFO ANDROID"
+echo    "<•¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤•>"|lolcat
+echo   -x $red "   $-(12. KALI NETHUNTER"
+echo    "<•¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤•>"|lolcat
+echo   -x $cyan "  $-(13. CRACK PW HASH"
+echo    "<•¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤•>"|lolcat
 echo   -x $green " $-(14. BOT KOMEN FB"
-echo    "<•¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤•>"|lolcat
-echo   -x $red " $-(15. LOCALIZAR IP"
-echo    "<•¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤•>"|lolcat
-echo   -x $red" $-(16. Tools-B4J1N64Nv5"
-echo    "<•¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤•>"|lolcat
-echo   -x $green" $-(17. KATANA FRAMEWORK"
-echo    "<•¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤•>"|lolcat
-echo   -x $cyan" $-(18. HASH BUSTER"
-echo    "<•¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤•>"|lolcat
+echo    "<•¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤•>"|lolcat
+echo   -x $red "   $-(15. LOCALIZAR IP"
+echo    "<•¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤•>"|lolcat
+echo   -x $red"    $-(16. Tools-B4J1N64Nv5"
+echo    "<•¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤•>"|lolcat
+echo   -x $green"  $-(17. KATANA FRAMEWORK"
+echo    "<•¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤•>"|lolcat
+echo   -x $cyan"   $-(18. HASH BUSTER"
+echo    "<•¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤•>"|lolcat
 echo   -x $yellow" $-(19. TOOL UBUNTU"
-echo    "<•¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤•>"|lolcat
-echo   -x $red" $-(20. SPAM BOOM MALL"
-echo    "<•¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤•>"|lolcat
-echo   -x $green" $-(21. MBF HACK FB"
-echo    "<•¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤•>"|lolcat
-echo   -x $red" $-(22. INSTALL WEBDAV"
-echo    "<•¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤•>"|lolcat
-echo   -x $cyan" $-(23. TOOL FSOCIETY"
-echo    "<•¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤•>"|lolcat
-echo   -x $red" $-(24. TOOL D-TECT"
-echo    "<•¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤•>"|lolcat
-echo   -x $blue" $-(25. HEKER REQODOG"
-echo    "<•¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤•>"|lolcat
-echo   -x $green" $-(26. HACK WIFI (ROOT)"
-echo    "<•¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤•>"|lolcat
-echo   -x $red" $-(27. LACAK IP"
-echo    "<•¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤•>"|lolcat
-echo   -x $green" $-(28. TORS HAMMER"
-echo    "<•¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤•>"|lolcat
-echo   -x $red" $-(29. TOOL INSTALL"
-echo    "<•¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤•>"|lolcat
-echo   -x $red" $-(30. LAZIMUX"
-echo    "<•¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤•>"|lolcat
-echo   -x $cyab" $-(31. TOOL TUAN B4DUT/DIR WEBSITE"
-echo    "<•¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤•>"|lolcat
-echo   -x $green" $-(32. TOOL TUAN B4DUT/REVERSE IP"
-echo    "<•¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤•>"|lolcat
-echo   -x $green" $-(33. TOOL TUAN B4DUT/INFO IP"
-echo    "<•¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤•>"|lolcat
-echo   -x $cyan" $-(34. TOOL TUAN B4DUT/DNS WEBSITE"
-echo    "<•¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤•>"|lolcat
-echo   -x $green" $-(35. TOOL TUAN B4DUT/INFO WEBSITE"
-echo    "<•¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤•>"|lolcat
-echo   -x $red" $-(36. MENCARI SITE 1 HOST"
-echo    "<•¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤•>"|lolcat
-echo   -x $yellow " $-(37. INSTALL VIRUS MEMATIKAN"
-echo    "<•¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤•>"|lolcat
-echo   -x $red " $-(38.INSTALL DORK "
-echo    "<•¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤•>"|lolcat
+echo    "<•¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤•>"|lolcat
+echo   -x $red"    $-(20. SPAM BOOM MALL"
+echo    "<•¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤•>"|lolcat
+echo   -x $green"  $-(21. MBF HACK FB"
+echo    "<•¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤•>"|lolcat
+echo   -x $red"    $-(22. INSTALL WEBDAV"
+echo    "<•¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤•>"|lolcat
+echo   -x $cyan"   $-(23. TOOL FSOCIETY"
+echo    "<•¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤•>"|lolcat
+echo   -x $red"    $-(24. TOOL D-TECT"
+echo    "<•¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤•>"|lolcat
+echo   -x $blue"   $-(25. HEKER REQODOG"
+echo    "<•¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤•>"|lolcat
+echo   -x $green"  $-(26. HACK WIFI (ROOT)"
+echo    "<•¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤•>"|lolcat
+echo   -x $red"    $-(27. LACAK IP"
+echo    "<•¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤•>"|lolcat
+echo   -x $green"  $-(28. TORS HAMMER"
+echo    "<•¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤•>"|lolcat
+echo   -x $red"    $-(29. TOOL INSTALL"
+echo    "<•¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤•>"|lolcat
+echo   -x $red"    $-(30. LAZIMUX"
+echo    "<•¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤•>"|lolcat
+echo   -x $cyab"   $-(31. TOOL TUAN B4DUT/DIR WEBSITE"
+echo    "<•¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤•>"|lolcat
+echo   -x $green"  $-(32. TOOL TUAN B4DUT/REVERSE IP"
+echo    "<•¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤•>"|lolcat
+echo   -x $green"  $-(33. TOOL TUAN B4DUT/INFO IP"
+echo    "<•¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤•>"|lolcat
+echo   -x $cyan"   $-(34. TOOL TUAN B4DUT/DNS WEBSITE"
+echo    "<•¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤•>"|lolcat
+echo   -x $green"  $-(35. TOOL TUAN B4DUT/INFO WEBSITE"
+echo    "<•¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤•>"|lolcat
+echo   -x $red"    $-(36. MENCARI SITE 1 HOST"
+echo    "<•¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤•>"|lolcat
+echo   -x $yellow "$-(37. INSTALL VIRUS MEMATIKAN"
+echo    "<•¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤•>"|lolcat
+echo   -x $red "   $-(38. INSTALL DORK "
+echo    "<•¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤•>"|lolcat
 echo   -x $green " $-(39. INSTALL SQL scanner"
-echo    "<•¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤•>"|lolcat
-echo   -x $red " $-(40. BRUTE WEBDAV"
-echo    "<•¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤•>"|lolcat
-echo   -x $red" $-(00. EXIT"
-echo    "<•¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤•>"|lolcat
+echo    "<•¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤•>"|lolcat
+echo   -x $red "   $-(40. BRUTE WEBDAV"
+echo    "<•¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤•>"|lolcat
+echo   -x $cyan"   $-(41. INSTALL TOOL BRUTAL"
+echo    "<•¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤•>"|lolcat
+echo   -x $red"    $-(42. INSTALL E-BOMBER"
+echo    "<•¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤•>"|lolcat
+echo   -x $green"  $-(43. INSTALL TRACK URL"
+echo    "<•¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤•>"|lolcat
+echo   -x $cyan"   $-(44. INSTALL BOX SPAM"
+echo    "<•¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤•>"|lolcat
+echo   -x $red"    $-(45. INSTA HACK"
+echo    "<•¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤•>"|lolcat
+echo   -x $red"    $-(00. EXIT"
+echo    "<•¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤•>"|lolcat
 echo -x "╭─[Coder Xidploit]"
 read -p "╰─root@./MR_XID/$>" sf;
 
@@ -698,6 +708,80 @@ echo "Silahkan Cek Web $Ke8/$script"
 echo "Silahkan Cek Web $Ke9/$script"
 echo "Silahkan Cek Web $Ke10/$script"
 echo "[==========SELAMAT ANDA MENJADI DEFACEE :V==========]"
+fi
+
+if [ $sf = 41 ] || [ $sf = 41 ]
+then
+clear
+toilet -f big -F gay "MR_XID"
+sleep 1
+apt update 
+apt upgrade
+apt install git
+git clone https://github.com/Screetsec/Brutal
+mv  Brutal $HOME
+cd $HOME/Brutal
+sh Brutal.sh
+fi
+
+if [ $sf = 42 ] || [ $sf = 42 ]
+then
+clear
+toilet -f big -F gay "MR_XID"
+sleep 1
+apt update 
+apt upgrade
+apt install git
+apt install python2
+git clone https://github.com/zanyarjamal/Email-bomber
+mv Email-bomber $HOME
+cd $HOME/Email-bomber
+chmod +x E-bomber.py
+python2 E-bomber.py
+fi
+
+if [ $sf = 43 ] || [ $sf = 43 ]
+then
+clear
+toilet -f big -F gay "MR_XID"
+sleep 1
+apt update 
+apt upgrade
+apt install git
+git clone https://github.com/zanyarjamal/TrackUrl
+mv TrackUrl $HOME
+cd $HOME/TrackUrl
+sh TrackUrl.sh
+fi
+
+if [ $sf = 44 ] || [ $sf = 44 ]
+then
+clear
+toilet -f big -F gay "MR_XID"
+sleep 1
+apt update 
+apt upgrade
+apt install 
+apt install git
+git clone https://github.com/Xeit666h05t/BoxSpam
+mv BoxSpam $HOME
+cd $HOME/BoxSpam
+python2 BoxSpam.py
+fi
+
+if [ $sf = 45 ] || [ $sf = 45 ]
+then
+clear
+toilet -f big -F gay "MR_XID"
+sleep 1
+apt update 
+apt upgrade
+apt install python2 
+apt install git
+git clone https://github.com/avramit/Instahack
+mv Instahack $HOME
+cd $HOME/Instahack
+python2 hackinsta.py
 fi
 
 if [ $sf = 00 ] || [ $sf = 00 ]
