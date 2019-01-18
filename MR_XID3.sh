@@ -10,7 +10,7 @@ white='\033[37;1m'
 yellow='\033[33;1m'
 sleep 1
 
-oilet -f slant -F gay "T00LS XIDPLOIT" | lolcat
+toilet -f slant -F gay "T00LS XIDPLOIT" | lolcat
 echo "'\033[32;1m'"
 cal
 date
@@ -636,7 +636,15 @@ then
 clear
 toilet -f big -F gay "MR_XID"
 sleep 1
-
+apt update 
+apt upgrade
+apt install python2
+apt install git
+git clone https://github.com/the-c0d3r/sqli-scanner
+mv sqli-scanner $HOME
+cd $HOME/sqli-scanner
+python2 sqli-scanner.py
+fi
 
 if [ $sf = 40 ] || [ $sf = 40 ]
 then
