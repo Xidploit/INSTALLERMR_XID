@@ -118,7 +118,7 @@ echo    "<•¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤�
 echo   -x $red" $-(00. EXIT"
 echo    "<•¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤•>"|lolcat
 echo -x "╭─[Coder Xidploit]"
-read -p "╰─root@./MR_XID/$>" sf;
+read -p "╰─root@./MR_XID/$>_" sf;
 
 if [ $sf = 1 ] || [ $sf = 1 ]
 then
@@ -152,6 +152,8 @@ fi
 if [ $fri = 2 ] || [ $fri = 2 ]
 then 
 clear
+toilet -f big -F gay "MR_XID"
+sleep 1
 figlet "Weeman" | lolcat
 apt install php
 git clone https://github.com/evait-security/weeman.git
@@ -163,6 +165,8 @@ fi
 if [ $fri = 3 ] || [ $fri = 3 ]
 then
 clear 
+toilet -f big -F gay "MR_XID"
+sleep 1
 cowsay -f kiss.cow "HyDra" | lolcat
 figlet "HyDra" | lolcat
 git clone https://github.com/Gameye98/Black-Hydra.git
@@ -174,6 +178,8 @@ fi
 if [ $fri = 4 ] || [ $fri = 4 ]
 then
 clear 
+toilet -f big -F gay "MR_XID"
+sleep 1
 git clone https://github.com/Xeit666h05t/CrewBot
 mv CrewBot
 cd CrewBot
@@ -182,7 +188,9 @@ fi
 
 if [ $fri = 5 ] || [ $fri = 5 ]
 then 
-clear 
+clear
+toilet -f big -F gay "MR_XID"
+sleep 1
 apt install php
 git clone https://github.com/Tuhinshubhra/RED_HAWK
 mv RED_HAWK
@@ -194,6 +202,8 @@ fi
 if [ $fri = 6 ] || [ $fri = 6 ]
 then
 clear
+toilet -f big -F gay "MR_XID"
+sleep 1
 figlet "KK Generate"
 git clone https://github.com/zerosvn/ktpkkgenerate
 cd ktpkkgenerate
@@ -203,12 +213,16 @@ fi
 if  [ $fri = 00 ] || [ $fri = 00 ]
 then 
 clear 
-sh V3.sh
+toilet -f big -F gay "MR_XID"
+sleep 1
+sh MR_XID3.sh
 fi
 
 if [ $sf = 2 ] || [ $sf = 2 ]
 then 
 clear 
+toilet -f big -F gay "MR_XID"
+sleep 1
 git clone https://github.com/4L13199/LITESPAM
 cd LITESPAM
 sleep 1
@@ -219,6 +233,8 @@ fi
 if [ $sf = 3 ] || [ $sf = 3 ]
 then 
 clear
+toilet -f big -F gay "MR_XID"
+sleep 1
 git clone https://github.com/cyweb/hammer 
 cd hammer 
 chmod 7777 hammer.py
@@ -229,6 +245,8 @@ fi
 if [ $sf = 4 ] || [ $sf = 4 ]
 then 
 clear
+toilet -f big -F gay "MR_XID"
+sleep 1
 git clone https://github.com/sqlmapproject/sqlmap.git
 cd sqlmap
 python2 sqlmap.py
@@ -591,6 +609,8 @@ fi
 if [ $sf = 35 ] || [ $sf =35 ]
 then 
 clear 
+toilet -f big -F gay "MR_XID"
+sleep 1
 git clone https://github.com/TUANB4DUT/WHOIS
 cd WHOIS
 chmod 777 WHOIS.sh
@@ -615,6 +635,8 @@ fi
 if [ $sf = 37 ] || [ $sf = 37 ]
 then 
 clear 
+toilet -f big -F gay "MR_XID"
+sleep 1
 git clone https://github.com/ashishb/android-malware
 echo -x "${y} Cara membuat virus mematikan"
 echo -x "${y} cd android-malware"
