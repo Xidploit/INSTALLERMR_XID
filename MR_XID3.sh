@@ -9,8 +9,6 @@ red='\033[31;1m'
 white='\033[37;1m'                                           
 yellow='\033[33;1m'
 sleep 1
-sh install.sh
-sleep 2
 toilet -f slant -F gay "TOOL MR_XID" | lolcat
 echo "'\033[32;1m'"
 cal
