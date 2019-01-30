@@ -9,21 +9,12 @@ red='\033[31;1m'
 white='\033[37;1m'                                           
 yellow='\033[33;1m'
 sleep 1
-
-toilet -f slant -F gay "T00LS XIDPLOIT" | lolcat
+sh install.sh
+sleep 2
+toilet -f slant -F gay "TOOL MR_XID" | lolcat
 echo "'\033[32;1m'"
 cal
-date
-
-echo                      " [•]===><===<>===><===<>===><===<>==><==[]"|lolcat
-echo                      " [•]Author   :  MR_XiD                  []"|lolcat
-echo                      " [•]Wa       :  083851312460            []"|lolcat
-echo                      " [•]thanks to: JATIM BLACKHAT           []"|lolcat
-echo                      " [•]Thansk to: L4EFY                    []"|lolcat
-echo                      " [•]thanks to: D35TR0Y SQUAD            []"|lolcat
-echo                      " [•]Note2    : Copyright © 2018 MR_XID  []"|lolcat
-echo                      " [•]===><==<>===><===<>===><===<>===><==[]"|lolcat
-                            
+date                            
 echo    "<•¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤•>"|lolcat
 echo   -x $green" $-(1. WEB HACK"
 echo    "<•¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤•>"|lolcat
@@ -71,7 +62,7 @@ echo   -x $red" $-(22. INSTALL WEBDAV"
 echo    "<•¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤•>"|lolcat
 echo   -x $cyan" $-(23. TOOL FSOCIETY"
 echo    "<•¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤•>"|lolcat
-echo   -x $red" $-(24. TOOL D-TECT"
+echo   -x $red" $-(24. REDHAWK V2"
 echo    "<•¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤•>"|lolcat
 echo   -x $blue" $-(25. HEKER REQODOG"
 echo    "<•¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤•>"|lolcat
@@ -473,13 +464,11 @@ fi
 if [ $sf = 24 ] || [ $sf = 24 ]
 then 
 clear
-apt update
-apt install git
-git clone https://github.com/shawarkhanethicalhacker/D-TECT
-cd D-TECT
-apt install python2
-chmod +x d-tect.py
-python2 d-tect.py
+git clone https://github.com/Tuhinshubhra/RED_HAWK
+cd RED_HAWK
+echo $red"TUNGGU SEBENTAR"
+sleep 2
+php rhawk.php
 fi
 
 if [ $sf = 25 ] || [ $sf = 25 ]
