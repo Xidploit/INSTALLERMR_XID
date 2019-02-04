@@ -15,7 +15,7 @@ def main():
 		pwd = raw_input("password : ")
 
 		if pwd == password:
-			print "\033[34;1mWELCOME TO TOOL MR_XID", 
+			print "\033[34;1m0.0.1 version tools.", 
 			sys.exit()
 
 		else:
