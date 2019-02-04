@@ -7,6 +7,7 @@
 
 
 clear
+rm -irf INSTALLERMR_XID
 cd module
 python2 unlock.py
 blue='\033[34;1m'
