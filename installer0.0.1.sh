@@ -1,3 +1,11 @@
+#codingbash 
+#Copyright © 2018 mr_xid
+#version 0.0.1
+#date update Tuesday 5 February 2019
+#autor #mr_xid
+
+
+
 clear
 cd module
 python2 unlock.py
@@ -104,10 +112,19 @@ echo   -x $cyan" $-(44. INSTALL BOX SPAM"
 echo    "<•¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤•>"|lolcat
 echo   -x $red" $-(45. INSTA HACK"
 echo    "<•¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤•>"|lolcat
+echo   -x $red" $-(46. INSTALL TUAN B4DUT/TOOLKIT"
+echo    "<•¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤•>"|lolcat
+echo   -x $green" $-(47. INSTALL LOKOMEDIA EXPLOIT"
+echo    "<•¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤•>"|lolcat
+echo   -x $cyan" $-(48. INSTALL BLACKTRACK"
+echo    "<•¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤•>"|lolcat
+echo   -x $green" $-(49. INSTALL BLACKNMAP"
+echo    "<•¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤•>"|lolcat
+echo   -x $red" $-(50. INSTALL BRUTESPLOIT"
+echo    "<•¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤•>"|lolcat
 echo   -x $red" $-(00. EXIT"
 echo    "<•¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤•>"|lolcat
-echo -x "╭─[Coder Xidploit]"
-read -p "╰─root@./MR_XID/$>_" sf;
+read -p "/>root/#MR_XID/$>_" sf;
 
 if [ $sf = 1 ] || [ $sf = 1 ]
 then
@@ -791,6 +808,72 @@ git clone https://github.com/avramit/Instahack
 mv Instahack $HOME
 cd $HOME/Instahack
 python2 hackinsta.py
+fi
+
+if [ $sf = 46 ] || [ $sf = 46 ]
+then
+clear
+apt update && apt upgrade
+pkg install python python2 git curl figlet cmtarix
+pip2 install lolcat
+git clone https://github.com/TUANB4DUT/TOOLKIT
+cd TOOLKIT
+chmod 777 TUANB4DUT.sh
+./TUANB4DUT.sh
+fi
+
+if [ $sf = 47 ] || [ $sf = 47 ]
+then
+clear
+toilet -f big -F gay "MR_XID INSTALLER"
+sleep 1
+apt update && apt upgrade
+pkg install php
+pkg install wget
+wget https://pastebin.com/raw/sPpJRjCZ -O lokomedia.php
+mv lokomedia.php $HOME
+cd
+php lokomedia.php 
+fi
+
+if [ $sf = 48 ] || [ $sf = 48 ]
+then
+clear
+toilet -f big -F gay "MR_XID INSTALLER"
+sleep 1
+apt install git
+git clone https://github.com/kereh/BlackTrack
+mv BlackTrack $HOME
+cd $HOME/BlackTrack
+python2 BlackTrack.py
+fi
+
+if [ $sf = 49 ] || [ $sf = 49 ]
+then
+clear
+toilet -f big -F gay "MR_XID INSTALLER"
+sleep 1
+apt install git
+git clone https://github.com/Xi4u7/BlackNmap
+mv BlackNmap $HOME
+cd $HOME/BlackNmap
+chmod 777 blacknmap
+./blacknmap
+fi
+
+if [ $sf = 50 ] || [ $sf = 50 ]
+then
+clear
+toilet -f big -F gay "Mr.B4J1N64N"
+sleep 1
+apt update 
+apt upgrade
+apt install git
+git clone https://github.com/Screetsec/BruteSploit
+mv BruteSploit $HOME
+cd $HOME/BruteSploit
+chmod 777 Brutesploit
+./Brutesploit
 fi
 
 if [ $sf = 00 ] || [ $sf = 00 ]
