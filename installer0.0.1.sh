@@ -864,7 +864,7 @@ fi
 if [ $sf = 50 ] || [ $sf = 50 ]
 then
 clear
-toilet -f big -F gay "Mr.B4J1N64N"
+toilet -f big -F gay "MR_XID INSTALLER"
 sleep 1
 apt update 
 apt upgrade
